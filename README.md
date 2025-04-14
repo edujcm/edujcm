@@ -1,11 +1,11 @@
-## Sobre mi...
+# Sobre mi...
  Hola 👋 !! mi nombre es Eduardo
  
-# Estudios 
+## Estudios 
 - Ingeniero Técnico en Informática de Gestión (UA), 2010
 - Técnico Administrador de Sistemas Informáticos, IES MareNostrum (2003)
 
-# Certificaciones
+## Certificaciones
 - Fundamentos ITIL V3
 - EMC Proven Professional - Information Storage Associate (EMCISA)
 - EMC Proven Professional - Specialist Technology Architect, Backup Recovery Solutions Specialist Version 6.0
@@ -14,7 +14,7 @@
 - EMC Data Domain Implementation Specialist (En proceso)
 - CIBERSEGURIDAD PARA MICROEMPRESAS Y AUTÓNOMOS DEL SECTOR DE SERVICIOS PROFESIONALES   (INCIBE).
 
-# Formaciones
+## Formaciones
 - Administrador Servidores Extranet, Intranet e Internet (INEM)
 - Huawei Servers
 - Novascale Servers
